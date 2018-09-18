@@ -14,7 +14,7 @@ Today we will be focusing on making HTTP requests using the Axios library. We wi
 
 # Live Example
 
-<img src="./src/img/screenshot.png" alt="screenshot"/>
+<img src="./readme-assets/screenshot.png" alt="screenshot"/>
 
 ## Setup 
 
